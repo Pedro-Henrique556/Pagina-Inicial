@@ -73,6 +73,8 @@ button{
     border: none;
     border-radius: 30px;
     cursor: pointer;
+    position: relative;
+    left: -27px;
 }
 button:hover {
   opacity: .8;
